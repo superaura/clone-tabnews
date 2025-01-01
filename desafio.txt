@@ -1,0 +1,3 @@
+# Desafio bug no migrations:
+- verificar pendência de encerramento da conexão quando se utiliza método diferente de GET ou POST
+- usar o curl no terminal na branch fix-migrations-endpoint
